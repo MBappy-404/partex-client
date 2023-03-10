@@ -1,0 +1,53 @@
+[
+     
+          {
+               "category_Name":"Living",
+               "image": "https://bd.all.biz/img/bd/catalog/1374.jpeg",
+               "category_id":"01"
+          },
+      
+          {
+               "category_Name":"Dining",
+               "category_id":"01",
+               "image": "https://m.media-amazon.com/images/I/81TM0mKTxUL._SL1500_.jpg"
+          },
+      
+          {
+               "category_Name":"Bedroom",
+               "category_id":"01",
+               "image": "http://admin.hatimfurniturebd.com/images/category/20181130_Bed_room_render.jpg"
+          },
+      
+          {
+               "category_Name":"Doors",
+               "category_id":"01",
+               "image":"https://hatil.com/sites/default/files/06-Plain-Veneered-Flush-Door.png"
+          },
+      
+          {
+               "category_Name":"Office",
+               "category_id":"01",
+               "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUZeloF_ARPGseELLzgZhLxq2UE7Dosu7Y5p44HRYHl2i-mknz6H-8AK4njO36VB3Jp0M&usqp=CAU"
+          },
+      
+          {
+               "category_Name":"Kitchen",
+               "category_id":"01",
+               "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqKCz1FCsOFiQy-30v-9J1B1mtI0m-XN3zw&usqp=CAU"
+          },
+      
+          {
+               "category_Name":"Almirah",
+               "category_id":"01",
+               "image":"https://hatil.com/sites/default/files/Wardrobe_0.jpg"
+          },
+      
+          {
+               "category_Name":"Others",
+               "category_id":"01",
+               "image":"https://hatil.in/sites/default/files/Smart-fit-04.png"
+          }
+      
+           
+      
+]
